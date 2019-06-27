@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Primer Parcial\bin\Debug\netcoreapp2.2\Primer Parcial.deps.json
+C:\Users\Usuario\Documents\Primer Parcial\bin\Debug\netcoreapp2.2\Primer Parcial.runtimeconfig.json
+C:\Users\Usuario\Documents\Primer Parcial\bin\Debug\netcoreapp2.2\Primer Parcial.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Primer Parcial\bin\Debug\netcoreapp2.2\Primer Parcial.dll
+C:\Users\Usuario\Documents\Primer Parcial\bin\Debug\netcoreapp2.2\Primer Parcial.pdb
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.dll
+C:\Users\Usuario\Documents\Primer Parcial\obj\Debug\netcoreapp2.2\Primer Parcial.pdb
